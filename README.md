@@ -9,9 +9,6 @@ This repository contains an interactive **Excel-based Sales Dashboard** built wi
 ![Excel Dashboard](assets/Sales%20dashboard%20image.png)
 
 
-> Upload your screenshot to the `assets/` folder and rename it as `sales-dashboard.png`  
-> (or update the path above to match your actual file name)
-
 ---
 
 ## 📁 File Included
